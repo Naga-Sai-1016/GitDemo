@@ -185,6 +185,12 @@ public class Practicejavacode {
 	
 	public static void main (String[] args) {
 		
+		
+		
+		
+		//commitinfg in git coedr 
+		commimit
+		
 	}
 	
 }
